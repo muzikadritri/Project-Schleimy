@@ -1,4 +1,4 @@
 # Project-Schleimy
 an OGFN project (BETA)
 
-Discord for Help: **https://discord.gg/bMHCTjsG3X**
+Discord for Download: **https://discord.gg/bMHCTjsG3X**
